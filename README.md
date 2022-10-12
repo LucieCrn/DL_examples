@@ -6,4 +6,8 @@
 - SVC. 
 - Model Random Forest. 
 
+## Text Classifier :
+- RNN. 
+
 ## Hostel cancelation. 
+
