@@ -8,8 +8,6 @@ Original file is located at
 """
 
 ## CHURN PROJECT ##
-## Group member : Eline Tellier - Elvis Gbaguidi - Florian Ngoumou 
-## - Lucie Cretin - Mélina Jehl - Léna Convers
 
 # Load libraries 
 import pandas as pd 
@@ -227,7 +225,7 @@ dot_data = export_graphviz(tree, out_file=None,
 graph = graphviz.Source(dot_data)
 graph
 
-### 3rd Model SVC (mais 100% accuracy donc pas bon)
+### 3rd Model SVC (100% accuracy = not good)
 
 # Commented out IPython magic to ensure Python compatibility.
 import pandas as pd
